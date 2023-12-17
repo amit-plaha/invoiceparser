@@ -1,0 +1,6 @@
+# ignore ALL files in build directory
+build/
+#ignore intellij files
+.idea/
+
+.gradle
